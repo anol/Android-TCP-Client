@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Kladd (TCP Client)</string>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="clear_text">Clear</string>
+    <string name="host_addr">Host Address</string>
+    <string name="host_addr_summ">The server IP-addr.</string>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="intro_message">
+        <![CDATA[
+            Du må angi IP-adressen.
+            Bruk setup ellers blir det default adressen.
+            Portnummeret er 8013.
+        ]]>
+    </string>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="mobile_connection">The active connection is mobile.</string>
+    <string name="no_wifi_or_mobile">No wireless or mobile connection.</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="quit_text">Quit</string>
+    <string name="send_text">Send</string>
+    <string name="setup_text">Settings</string>
+    <string name="test_text">Test</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="wifi_connection">The active connection is wifi.</string>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Log" parent="Widget.SampleOutput">
+        <item name="android:typeface">monospace</item>
+    </style>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <!-- From: file:/C:/Users/aeols/AndroidStudioProjects/BasicNetworking/Application/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Widget.SampleOutput">
+        <item name="android:padding">@dimen/margin_medium</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+</resources>
