@@ -49,8 +49,7 @@
     <eat-comment/>
     <string name="intro_message">
         <![CDATA[
-            Du må angi IP-adressen.
-            Bruk setup ellers blir det default adressen.
+            Husk settings!
             Portnummeret er 8013.
         ]]>
     </string>
@@ -58,19 +57,15 @@
     <eat-comment/>
     <string name="mobile_connection">The active connection is mobile.</string>
     <string name="no_wifi_or_mobile">No wireless or mobile connection.</string>
-    <string name="pref_default_display_name">John Smith</string>
-    <string name="pref_description_social_recommendations">Recommendations for people to contact
-        based on your message history
-    </string>
     <string name="pref_header_data_sync">Data &amp; sync</string>
     <string name="pref_header_general">General</string>
     <string name="pref_header_notifications">Notifications</string>
     <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_switches">Switches</string>
+    <string name="pref_switches_summ">This is a switch</string>
     <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
-    <string name="pref_title_display_name">Display name</string>
     <string name="pref_title_new_message_notifications">New message notifications</string>
     <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_title_social_recommendations">Enable social recommendations</string>
     <string name="pref_title_sync_frequency">Sync frequency</string>
     <string name="pref_title_system_sync_settings">System sync settings</string>
     <string name="pref_title_vibrate">Vibrate</string>

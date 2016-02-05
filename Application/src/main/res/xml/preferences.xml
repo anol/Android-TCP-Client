@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <EditTextPreference
-        android:key="host_addr"
-        android:title="@string/host_addr"
-        android:summary="@string/host_addr_summ"
-        android:defaultValue="192.168.1.226" />
-</PreferenceScreen>

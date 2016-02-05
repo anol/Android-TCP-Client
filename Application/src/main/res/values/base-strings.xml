@@ -19,8 +19,7 @@
     <string name="app_name">Kladd (TCP Client)</string>
     <string name="intro_message">
         <![CDATA[
-            Du må angi IP-adressen.
-            Bruk setup ellers blir det default adressen.
+            Husk settings!
             Portnummeret er 8013.
         ]]>
     </string>
